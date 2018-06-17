@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\bin\Debug\Quanlysanxuat.exe.config
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\bin\Debug\Quanlysanxuat.exe
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\bin\Debug\Quanlysanxuat.pdb
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.Properties.Resources.resources
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.exe
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.pdb
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.frmTRANGCHU.resources
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.frmLogin.resources
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.frmDONSANXUAT.resources
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.frmKEHOACHSX.resources
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.frmKHO.resources
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.frmSANPHAM.resources
+C:\Users\pc\Desktop\Git\QLSX\Quanlysanxuat\obj\Debug\Quanlysanxuat.frmXUONGSANXUAT.resources
